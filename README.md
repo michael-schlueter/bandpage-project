@@ -14,6 +14,7 @@
 - HTML / CSS / JS
 
 
+
 ## Features
 - Displaying information about the band
 - Displaying a store with the ability to select items to a cart
@@ -23,6 +24,11 @@
 
 ## Screenshots
 ![Example screenshot](https://i.ibb.co/bvMHc5t/bandpage-screenshot.jpg)
+
+
+
+## Demo
+Live demo [_here_](https://blissful-neumann-ce0dd2.netlify.app/).
 
 
 
